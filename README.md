@@ -28,7 +28,7 @@ Database creation:
 
 Project initialization:
 
-* bin/dev (type "sudo service postgresql start" beforehand if using WSL)
+* bin/dev (type "sudo service postgresql start" beforehand if using linux or WSL)
 
 How to access the project in your browser:
 
